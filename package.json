@@ -1,6 +1,6 @@
 {
   "name": "@pontx/twelve-data-forex",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packageManager": "pnpm@10.14.0",
   "description": "Type-safe TypeScript SDK and CLI for the Twelve Data Forex API",
   "main": "./dist/index.js",
