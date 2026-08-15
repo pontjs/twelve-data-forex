@@ -68,6 +68,6 @@
     "specDir": "dist/bin"
   },
   "bin": {
-    "pontx-twelve-data-forex": "./dist/bin/cli.cjs"
+    "pontx-twelve-data-forex": "dist/bin/cli.cjs"
   }
 }
